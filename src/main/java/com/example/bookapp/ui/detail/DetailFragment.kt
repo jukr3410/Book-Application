@@ -38,6 +38,7 @@ class DetailFragment : Fragment(R.layout.detail_fragment) {
         setUI()
     }
 
+
     private fun setUI() {
         binding.apply {
 
